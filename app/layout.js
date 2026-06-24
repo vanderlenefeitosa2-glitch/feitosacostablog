@@ -27,6 +27,10 @@ export default function RootLayout({ children }) {
               <span className="name">Feitosa &amp; Costa</span>
               <span className="tag">Direito da Saúde</span>
             </Link>
+            <nav className="site-nav">
+              <Link href="/">Artigos</Link>
+              <Link href="/quem-sou">Quem sou</Link>
+            </nav>
             <ThemeToggle />
           </div>
         </header>

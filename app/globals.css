@@ -2,14 +2,14 @@
    IDENTIDADE DA MARCA — troque as cores aqui (uma linha cada)
    ========================================================= */
 :root {
-  --brand: #114b45;        /* verde esmeralda profundo — confiança, saúde */
-  --brand-soft: #1c6b62;   /* variação clara da marca */
+  --brand: #4a3422;        /* espresso profundo — sofisticação amadeirada */
+  --brand-soft: #6f4e30;   /* caramelo/tabaco — variação da marca */
   --accent: #c2a36b;       /* dourado quente — toque premium/feminino */
-  --bg: #fbf9f6;           /* off-white quente */
+  --bg: #faf6f0;           /* creme quente */
   --surface: #ffffff;      /* cartões */
-  --text: #1f2422;         /* texto principal */
-  --muted: #6b736f;        /* texto secundário */
-  --border: #eae3da;       /* linhas suaves */
+  --text: #2b211a;         /* texto principal — café escuro */
+  --muted: #5f554b;        /* texto secundário — taupe quente, alto contraste p/ leitura */
+  --border: #ece3d8;       /* linhas suaves */
   --radius: 16px;
   --maxw: 1080px;
   --font-serif: Georgia, "Times New Roman", serif;
@@ -17,14 +17,14 @@
 }
 
 [data-theme="dark"] {
-  --brand: #6fc7bb;
-  --brand-soft: #8fd8cd;
+  --brand: #d6b487;
+  --brand-soft: #e3c8a3;
   --accent: #d8bd86;
-  --bg: #0e1413;
-  --surface: #161d1b;
-  --text: #ecefed;
-  --muted: #9aa6a1;
-  --border: #25302d;
+  --bg: #15110d;
+  --surface: #1e1812;
+  --text: #efe8df;
+  --muted: #a99d8f;
+  --border: #2f2820;
 }
 
 * { box-sizing: border-box; }
@@ -100,7 +100,7 @@ a:hover { text-decoration: underline; }
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
   padding: 24px; display: flex; flex-direction: column; transition: transform .15s ease, box-shadow .15s ease;
 }
-.card:hover { transform: translateY(-3px); box-shadow: 0 12px 30px -12px rgba(17,75,69,.25); }
+.card:hover { transform: translateY(-3px); box-shadow: 0 12px 30px -12px rgba(74,52,34,.25); }
 .card .badge { font-size: .68rem; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent); font-weight: 600; }
 .card h3 { font-family: var(--font-serif); font-size: 1.22rem; line-height: 1.25; margin: 10px 0 10px; }
 .card h3 a { color: var(--text); }
@@ -147,4 +147,58 @@ a:hover { text-decoration: underline; }
   .featured { padding: 26px; }
   .featured h2 { font-size: 1.5rem; }
   .article-head h1 { font-size: 1.7rem; }
+}
+
+/* ---------- Nav (menu do topo) ---------- */
+.site-nav { display: flex; gap: 26px; align-items: center; }
+.site-nav a { font-size: .95rem; color: var(--text); font-weight: 500; }
+.site-nav a:hover { color: var(--brand); text-decoration: none; }
+
+/* ---------- Quem sou ---------- */
+.about { padding: 48px 0 72px; }
+.about-hero {
+  display: grid; grid-template-columns: 340px 1fr; gap: 44px; align-items: start;
+}
+.about-photo img {
+  width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 20px;
+  display: block; background: var(--border);
+}
+.about-figure-cap {
+  margin-top: 14px; text-align: center; font-size: .78rem; letter-spacing: 2px;
+  text-transform: uppercase; color: var(--accent); font-weight: 600;
+}
+.about-role {
+  font-size: .8rem; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--accent); font-weight: 600;
+}
+.about-intro h1 {
+  font-family: var(--font-serif); font-size: 2.4rem; line-height: 1.12; margin: 8px 0 0;
+}
+.about-prose { font-size: 1.08rem; margin-top: 20px; }
+.about-prose p { margin: 0 0 16px; color: var(--text); }
+.about-prose .about-purpose {
+  font-family: var(--font-serif); font-size: 1.5rem; line-height: 1.35;
+  color: var(--brand); border-left: 4px solid var(--accent);
+  padding: 6px 0 6px 22px; margin: 30px 0;
+}
+.creds {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px; margin-top: 40px;
+}
+.cred {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 18px 20px;
+}
+.cred .k {
+  font-size: .68rem; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--accent); font-weight: 600;
+}
+.cred .v { margin-top: 6px; color: var(--text); font-size: .96rem; line-height: 1.5; }
+
+@media (max-width: 720px) {
+  .site-nav { gap: 16px; }
+  .site-nav a { font-size: .85rem; }
+  .about-hero { grid-template-columns: 1fr; gap: 24px; }
+  .about-photo { max-width: 280px; margin: 0 auto; }
+  .about-intro h1 { font-size: 1.9rem; }
 }
