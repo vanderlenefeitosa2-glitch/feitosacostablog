@@ -32,7 +32,7 @@ export default function QuemSou() {
             </p>
             <p>
               Acredito que toda mulher tem o direito de se reconhecer no próprio
-              corpo — e que uma negativa de plano de saúde não pode ser a palavra
+              corpo, e que uma negativa de plano de saúde não pode ser a palavra
               final sobre a saúde e a dignidade de ninguém.
             </p>
             <p>
@@ -45,7 +45,7 @@ export default function QuemSou() {
           <div className="creds">
             <div className="cred">
               <div className="k">Formação</div>
-              <div className="v">Universidade do Grande Rio — UNIGRANRIO</div>
+              <div className="v">Universidade do Grande Rio (Unigranrio)</div>
             </div>
             <div className="cred">
               <div className="k">Especialização</div>
