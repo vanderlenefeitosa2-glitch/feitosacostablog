@@ -1,17 +1,17 @@
 ---
-title: "O Plano Pediu Perícia para Provar Que Era Estética. O Tribunal Disse Que os Laudos Já Bastavam"
+title: "Justiça Manda a Unimed Custear Cirurgias Reparadoras e Rejeita o Pedido de Perícia do Plano"
 date: "2026-07-22"
-excerpt: "Decisão do TJMT manteve a cobertura de reparadoras pós-bariátrica e rejeitou o pedido de perícia da operadora. Entenda por que os documentos médicos foram suficientes."
+excerpt: "A Unimed pediu perícia para tentar provar que a cirurgia era estética. O tribunal respondeu que os laudos médicos já bastavam. Entenda a decisão."
 category: "O Que a Justiça Tem Decidido"
-image: "/planos/tribunal.jpg"
+image: "/planos/unimed.png"
 readTime: "6 min"
 ---
 
 Existe uma tática que aparece com frequência quando a operadora perde na primeira decisão: pedir perícia. A lógica é conhecida. Se um perito for nomeado, o processo se estende por meses, e a paciente que já esperou tanto espera mais um pouco.
 
-Uma decisão do Tribunal de Justiça de Mato Grosso enfrentou exatamente isso.
+Uma decisão do Tribunal de Justiça de Mato Grosso enfrentou exatamente isso, num caso envolvendo a Unimed Cuiabá.
 
-> **Resumo direto:** A Terceira Câmara de Direito Privado do TJMT rejeitou, por unanimidade, o recurso da operadora que pedia perícia médica para separar o caráter estético do reparador. Os documentos médicos já apresentados foram considerados suficientes. A cobertura e a indenização por dano moral foram mantidas.
+> **Resumo direto:** A Terceira Câmara de Direito Privado do TJMT rejeitou, por unanimidade, o recurso da Unimed Cuiabá que pedia perícia médica para separar o caráter estético do reparador. Os documentos médicos já apresentados foram considerados suficientes. A cobertura e a indenização por dano moral foram mantidas.
 
 ## O caso
 

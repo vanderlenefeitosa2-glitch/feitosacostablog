@@ -1,7 +1,7 @@
 ---
-title: "O Tema 1.069 Tem Duas Partes. Quase Ninguém Divulga a Segunda"
+title: "SulAmérica é Condenada no Distrito Federal a Custear Cirurgias Reparadoras Após Bariátrica"
 date: "2026-07-20"
-excerpt: "A tese do STJ sobre cirurgia reparadora pós-bariátrica tem uma segunda parte que muda a forma de montar o pedido. Entenda o que ela diz."
+excerpt: "A SulAmérica negou a cobertura alegando finalidade estética. A Justiça reconheceu o direito com base no Tema 1.069 do STJ. Entenda a decisão."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/sulamerica.png"
 readTime: "7 min"
@@ -25,7 +25,7 @@ Perceba o desenho: o direito existe, mas o caminho prevê uma etapa de checagem 
 
 ## O que os tribunais têm feito com isso
 
-Uma decisão da Justiça do Distrito Federal ilustra bem o cenário atual. Uma beneficiária teve a cobertura de cirurgias reparadoras negada após bariátrica, sob a alegação de finalidade estética. A Justiça reconheceu que, havendo indicação médica dentro do contexto do tratamento da obesidade, os procedimentos integram o cuidado e devem ser cobertos.
+Uma decisão da Justiça do Distrito Federal ilustra bem o cenário atual. Uma beneficiária da SulAmérica teve a cobertura de cirurgias reparadoras negada após bariátrica, sob a alegação de finalidade estética. A Justiça reconheceu que, havendo indicação médica dentro do contexto do tratamento da obesidade, os procedimentos integram o cuidado e devem ser cobertos.
 
 O que se repete nesse tipo de decisão é o mesmo padrão: quando a indicação médica é sólida e a operadora não apresenta contraprova técnica, o argumento genérico de "estética" não se sustenta.
 

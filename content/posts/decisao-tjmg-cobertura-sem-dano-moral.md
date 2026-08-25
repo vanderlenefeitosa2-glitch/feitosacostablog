@@ -1,7 +1,7 @@
 ---
-title: "O Plano Tinha uma Ferramenta para Contestar a Cirurgia e Não Usou. Veja o Que a Justiça Decidiu"
+title: "Justiça de Minas Obriga a Unimed Belo Horizonte a Custear Cirurgias Reparadoras Pós-Bariátrica"
 date: "2026-07-21"
-excerpt: "A Justiça de Belo Horizonte determinou o custeio integral das reparadoras pós-bariátrica. O que pesou: a operadora negou sem instaurar junta médica."
+excerpt: "A Unimed negou dizendo que era estética, mas não instaurou a junta médica prevista para contestar. A Justiça de BH determinou o custeio integral."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/unimed.png"
 readTime: "7 min"
@@ -9,9 +9,9 @@ readTime: "7 min"
 
 Tem um detalhe no Tema 1.069 do STJ que quase nunca é divulgado, e que essa decisão de Belo Horizonte coloca em evidência. Quando a operadora tem dúvida sobre o caráter estético de uma cirurgia, ela não pode simplesmente negar. Existe uma ferramenta prevista para isso, e ela custa dinheiro ao plano.
 
-Nesse caso, a operadora não usou. E isso pesou.
+Nesse caso, a Unimed Belo Horizonte não usou. E isso pesou.
 
-> **Resumo direto:** A 2ª Vara Cível da Comarca de Belo Horizonte condenou a operadora a autorizar e custear integralmente as cirurgias reparadoras indicadas após bariátrica. Um dos fundamentos foi que a operadora negou administrativamente com base no rol da ANS, sem instaurar a junta médica prevista para resolver esse tipo de divergência.
+> **Resumo direto:** A 2ª Vara Cível da Comarca de Belo Horizonte condenou a Unimed Belo Horizonte a autorizar e custear integralmente as cirurgias reparadoras indicadas após bariátrica. Um dos fundamentos foi que a operadora negou administrativamente com base no rol da ANS, sem instaurar a junta médica prevista para resolver esse tipo de divergência.
 
 ## O caso
 
