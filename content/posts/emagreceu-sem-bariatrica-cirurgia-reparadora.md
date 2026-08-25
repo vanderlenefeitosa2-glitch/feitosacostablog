@@ -1,6 +1,6 @@
 ---
 title: "Não Foi Bariátrica, Foi Reeducação Alimentar. Ainda Assim o Plano Teve Que Custear"
-date: "2026-07-23"
+date: "2026-07-18"
 excerpt: "O excesso de pele depois do emagrecimento não escolhe como você perdeu peso. Entenda uma decisão que reconheceu o direito à cirurgia reparadora e por quê."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/card-emagreceu.jpg"

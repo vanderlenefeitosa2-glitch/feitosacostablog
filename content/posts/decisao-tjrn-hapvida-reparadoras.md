@@ -1,6 +1,6 @@
 ---
 title: "Hapvida é Obrigada a Custear Cirurgias Reparadoras Após Bariátrica no Rio Grande do Norte"
-date: "2026-07-21"
+date: "2026-07-23"
 excerpt: "A Hapvida negou o custeio alegando caráter estético. O TJRN manteve a condenação e reconheceu que os procedimentos faziam parte do tratamento. Entenda a decisão."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/card-hapvida.jpg"

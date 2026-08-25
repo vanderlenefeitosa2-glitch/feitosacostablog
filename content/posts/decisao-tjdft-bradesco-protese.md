@@ -1,6 +1,6 @@
 ---
 title: "Bradesco Saúde é Condenada a Custear Reparadora com Prótese Após Bariátrica em Brasília"
-date: "2026-07-20"
+date: "2026-07-22"
 excerpt: "A Bradesco negou alegando que estava fora do rol da ANS. A Justiça de Brasília respondeu que o rol é exemplificativo e condenou a operadora, com dano moral. Entenda."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/card-bradesco.jpg"
