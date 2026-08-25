@@ -35,6 +35,7 @@ export default function RootLayout({ children }) {
             </Link>
             <nav className="site-nav">
               <Link href="/">Artigos</Link>
+              <Link href="/decisoes">Decisões</Link>
               <Link href="/quem-sou">Quem sou</Link>
               <Link href="/contato">Contato</Link>
             </nav>
