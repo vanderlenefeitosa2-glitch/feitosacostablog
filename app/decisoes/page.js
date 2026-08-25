@@ -40,20 +40,15 @@ export default function Decisoes() {
           {posts.map((post) => (
             <article className="decisao-card" key={post.slug}>
               <Link href={`/blog/${post.slug}`} className="decisao-link">
-                <div
-                  className="decisao-hero"
-                  style={
-                    post.image
-                      ? { backgroundImage: `url(${post.image})` }
-                      : undefined
-                  }
-                >
-                  <div className="decisao-hero-overlay" />
-                  <h3 className="decisao-hero-title">{post.title}</h3>
-                  <span className="decisao-hero-cta">Saiba mais</span>
-                </div>
+                {post.image && (
+                  <img
+                    className="decisao-arte"
+                    src={post.image}
+                    alt={post.title}
+                    loading="lazy"
+                  />
+                )}
                 <div className="decisao-body">
-                  <span className="badge">Decisão comentada</span>
                   <p>{post.excerpt}</p>
                   <span className="decisao-meta">
                     {formatDate(post.date)}

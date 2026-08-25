@@ -3,7 +3,7 @@ title: "Justiça Manda a Unimed Custear Cirurgias Reparadoras e Rejeita o Pedido
 date: "2026-07-22"
 excerpt: "A Unimed pediu perícia para tentar provar que a cirurgia era estética. O tribunal respondeu que os laudos médicos já bastavam. Entenda a decisão."
 category: "O Que a Justiça Tem Decidido"
-image: "/planos/tribunal2.jpg"
+image: "/planos/card-tjmt.jpg"
 readTime: "6 min"
 ---
 

@@ -3,7 +3,7 @@ title: "SulAmérica é Condenada no Distrito Federal a Custear Cirurgias Reparad
 date: "2026-07-20"
 excerpt: "A SulAmérica negou a cobertura alegando finalidade estética. A Justiça reconheceu o direito com base no Tema 1.069 do STJ. Entenda a decisão."
 category: "O Que a Justiça Tem Decidido"
-image: "/planos/tribunal4.jpg"
+image: "/planos/card-sulamerica.jpg"
 readTime: "7 min"
 ---
 
