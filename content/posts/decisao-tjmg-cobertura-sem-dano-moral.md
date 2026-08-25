@@ -1,6 +1,6 @@
 ---
 title: "Justiça de Minas Obriga a Unimed Belo Horizonte a Custear Cirurgias Reparadoras Pós-Bariátrica"
-date: "2026-07-21"
+date: "2026-07-19"
 excerpt: "A Unimed negou dizendo que era estética, mas não instaurou a junta médica prevista para contestar. A Justiça de BH determinou o custeio integral."
 category: "O Que a Justiça Tem Decidido"
 image: "/planos/card-tjmg.jpg"
